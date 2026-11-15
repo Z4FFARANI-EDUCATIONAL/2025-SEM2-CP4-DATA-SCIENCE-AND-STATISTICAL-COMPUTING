@@ -1,12 +1,5 @@
 # Titanic & Airbnb NYC · Data Science & Statistical Computing
 
-| Integrante | RM |
-|---|---|
-| [Guilherme Santos Nunes](https://github.com/sannunez) | RM558989 |
-| [Kaique Zaffarani](https://github.com/Z4ffarani) | RM556677 |
-| [Kairo da Silva Silvestre de Carvalho](https://github.com/KairoSilvestre) | RM558288 |
-| [Pedro Josué Pereira Almeida](https://github.com/Pedro-Josue) | RM554913 |
-
 Checkpoint 4 · 2025.2 · Engenharia de Software · FIAP
 
 ---
